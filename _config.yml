@@ -1,0 +1,8 @@
+title: MarkdownJ
+description: A Java port of Markdown, the text-to-html conversion tool
+google_analytics: UA-6093957
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
