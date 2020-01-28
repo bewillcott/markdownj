@@ -12,7 +12,7 @@ See the ChangeLog.
 
 ## Install
 
-See http://code.google.com/p/markdownj/wiki/Maven
+See https://github.com/bewillcott/markdownj
 
 ## How do I use it?
 
@@ -27,3 +27,4 @@ The project is licensed under a [Revised BSD License](http://www.opensource.org/
 * Pete Bevin
 * John Mutchek (jmutchek@users.sourceforge.net)
 * Alex Coles (opensource@alexbcoles.com)
+* Bradley Willcott
