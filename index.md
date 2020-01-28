@@ -4,7 +4,7 @@ _Where we’re going, we don’t need tags_
 
 ## Dependencies
 
-JDK 1.5
+JDK 13.0.2
 
 ## What’s New?
 
